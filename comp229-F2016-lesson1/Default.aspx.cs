@@ -14,7 +14,7 @@ namespace comp229_F2016_lesson1
         ///</summary>
         protected void Page_Load(object sender, EventArgs e)
         {
-            HelloLabel.Text = "Good Bye!!";
+            HelloLabel.Text = "Good Bye!!!!";
         }
     }
 }
